@@ -6,8 +6,8 @@ from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 
 #Hyper-Parameters
-unit_count = 50
-time_steps = 20
+unit_count = 25
+time_steps = 5
 batch_size_count = 32
 epoch_number = 100
 
